@@ -1,22 +1,6 @@
 # Tribute-Page-Muhammad-Ali
 This is a tribute page for Muhammad Ali that utilizes HTML and CSS.
-CSS
-h1{
-  color: black;
-}
 
-.center-text{
-  text-align: center;
-}
-
-li{
-  text-align: center;
-}
-
-.small-pic{
-  width: 300px;
-  height: 300px;
-}
 
 HTML
 <title>Muhammad Ali</title>
